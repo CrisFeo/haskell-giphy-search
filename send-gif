@@ -1,0 +1,2 @@
+#! /bin/bash
+./dist/build/haskell-giphy-search/haskell-giphy-search "$1"
